@@ -1,5 +1,7 @@
 # myTestProject
 
+Proyecto realizado sobre la Versión 44.0 Mozilla Firefox
+
 La estructura del proyecto utilza el Modelo Base Page Object.
 
 
